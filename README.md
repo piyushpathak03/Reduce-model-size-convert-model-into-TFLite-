@@ -2,7 +2,7 @@
 
 #### Model size reduction is sometimes very necessary for faster loading of model and faster predictions.
 
-## some links for model reduction
+## some links for model size reduction 
 
 https://medium.com/@chengweizhang2012/how-to-compress-your-keras-model-x5-smaller-with-tensorflow-model-optimization-adcfa9c9fe94
 
